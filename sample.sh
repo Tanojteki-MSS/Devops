@@ -1,2 +1,4 @@
-echo
-"hello world"
+
+
+#!/bin/sh
+echo "Hello world"
